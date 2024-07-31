@@ -9,7 +9,7 @@
   width: 35rem;
   height: 15rem;
   background-color: var(--prim-1);
-  border: none;
+  border: 1px solid var(--light);
   border-radius: var(--br-l);
   font-size: 7rem;
   font-weight: 400;
