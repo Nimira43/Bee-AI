@@ -1,9 +1,9 @@
-import ChatBoxStart from './Components/ChatBoxStart'
+import BeeAIStart from "./Components/BeeAIStart"
 
 const App = () => {
   return (
-    <div className='Container'>
-      <ChatBoxStart />
+    <div className='container'>
+      <BeeAIStart />
     </div>
   )
 }
