@@ -1,9 +1,8 @@
-import React from 'react'
 import ChatBoxStart from './Components/ChatBoxStart'
 
 const App = () => {
   return (
-    <div>
+    <div className='Container'>
       <ChatBoxStart />
     </div>
   )

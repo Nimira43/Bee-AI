@@ -1,8 +1,7 @@
-import React from 'react'
-
 const ChatBoxStart = () => {
   return (
-    <div>
+    <div className='start-page'>
+      <button className='start-page-btn'>Bee AI</button>
       
     </div>
   )
