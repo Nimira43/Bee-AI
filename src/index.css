@@ -20,7 +20,7 @@ html {
   --prim-2: #111;
   --second: #3dbbec; 
   --light: #eee;
-  --dark: #fff;
+  --dark: #000;
   --gr-l: #ccc;
   --gr-m: #888;
   --gr-d: #333;
@@ -28,4 +28,12 @@ html {
   --br-l: 7px;
   --br-m: 5px;
   --br-s: 3px;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: var(--prim-2);
 }
