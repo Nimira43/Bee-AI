@@ -1,4 +1,4 @@
-import BeeAIStart from "./Components/BeeAIStart"
+// import BeeAIStart from "./Components/BeeAIStart"
 import BeeAIApp from "./Components/BeeAIApp"
 
 const App = () => {
