@@ -1,7 +1,10 @@
+import React from 'react'
+import ChatBoxStart from './Components/ChatBoxStart'
+
 const App = () => {
   return (
     <div>
-      <h1>AI Chat Bot</h1>
+      <ChatBoxStart />
     </div>
   )
 }
