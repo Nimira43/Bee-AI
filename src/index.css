@@ -5,9 +5,14 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'League Spartan', sans-serif;
+  font-weight: 300;
   text-decoration: none;
   list-style: none;
   outline: none;
+}
+
+html {
+  font-size: 62.5%;
 }
 
 :root {

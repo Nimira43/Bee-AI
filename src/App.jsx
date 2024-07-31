@@ -1,5 +1,9 @@
-export default function App() {
+const App = () => {
   return (
-    <div>AI Chat Bot</div>
+    <div>
+      <h1>AI Chat Bot</h1>
+    </div>
   )
 }
+
+export default App
