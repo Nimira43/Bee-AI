@@ -3,7 +3,7 @@ const Quotes = () => {
     <div>
       <div className="container">
         <div className="quotes-app">
-          <h1 className="app-heading">Quote Genie</h1>
+          <h1 className="app-heading logo">Quote Genie</h1>
           <i className="bx bxs-quote-alt-left left-quote"></i>
           <p className="quote-text">Being second is the first of the ones who lose</p>
           <p className="quote-author">Ayrton Senna</p>
