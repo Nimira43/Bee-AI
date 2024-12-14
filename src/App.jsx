@@ -1,6 +1,11 @@
-function App() {
+import Quotes from './components/Quotes'
+
+const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Quotes />
+    </div>
   )
 }
+
 export default App
