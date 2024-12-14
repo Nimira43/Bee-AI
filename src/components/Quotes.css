@@ -23,10 +23,18 @@
   width: 100%;
   height: 100vh;
   font-family: 'Poppins', sans-serif;
-  background-color: var(--dark);
+  background-color: var(--secondary);
   color: var(--light);
-  padding: 4rem;
-  border-radius: var(--size-1) dashed var(--primary)
+  display: grid;
+  place-items: center;
 }
 
-.quotes
+.quotes-app {
+  width: 90vmin;
+  aspect-ratio: 3 / 2;
+  padding: 4rem;
+  background-color: var(--dark);
+  border-radius: var(--size-5);
+  border: var(--size-2) solid var(--primary);
+  box-shadow: -2rem 2rem 6rem rgba(0, 0, 0, 0.6)
+}
