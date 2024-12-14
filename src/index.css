@@ -12,7 +12,7 @@ html {
 
 :root {
   --primary: #ff4500;
-  --secondary: #87ceeb;
+  --secondary: #1282ae;
   --light: #fffaf0;
   --dark: #111;
   --grey-xl: #eee;
@@ -33,8 +33,6 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: var(--dark);
-  color: var(--light);
 }
 
 .logo {
