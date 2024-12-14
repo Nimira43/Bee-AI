@@ -1,7 +1,12 @@
 const Quotes = () => {
   return (
     <div>
-      <h1>Quotes Component</h1>
+      <div className="container">
+        <div className="quotes-app">
+          <h1 className="app-heading">Quote Genie</h1>
+          i.
+        </div>
+      </div>
     </div>
   )
 }
