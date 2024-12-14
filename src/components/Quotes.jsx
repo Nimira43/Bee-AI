@@ -1,5 +1,3 @@
-import './Quotes.css' 
-
 const Quotes = () => {
   return (
     <div>
